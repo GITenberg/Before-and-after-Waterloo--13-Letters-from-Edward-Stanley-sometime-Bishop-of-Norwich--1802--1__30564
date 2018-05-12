@@ -1,0 +1,40 @@
+_repo: Before-and-after-Waterloo--13-Letters-from-Edward-Stanley-sometime-Bishop-of-Norwich--1802--1__30564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stanley, Edward
+    alias: Lord Bishop of Norwich (Edward Stanley)
+    birthdate: 1779
+    deathdate: 1849
+    gutenberg_agent_id: '34685'
+    url: http://www.gutenberg.org/2009/agents/34685
+  editors:
+  - agent_name: Adeane, Jane H. (Jane Henrietta)
+    alias: Adeane, Jane Henrietta
+    birthdate: 1842
+    deathdate: 1926
+    gutenberg_agent_id: '34686'
+    url: http://www.gutenberg.org/2009/agents/34686
+  - agent_name: Grenfell, Maud
+    gutenberg_agent_id: '34688'
+    url: http://www.gutenberg.org/2009/agents/34688
+description: ''
+gutenberg_issued: '2009-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30564'
+  lccn: 08034203
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'DC'
+title: "Before and after Waterloo\r\nLetters from Edward Stanley, sometime Bishop\
+  \ of Norwich (1802; 1814; 1816)"
+url: http://www.gutenberg.org/ebooks/30564
